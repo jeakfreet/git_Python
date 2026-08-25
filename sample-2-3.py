@@ -1,5 +1,4 @@
-text = """apple
-lemon
-peach
+text = """spam
+ham
+eggs
 """
-print(text)
